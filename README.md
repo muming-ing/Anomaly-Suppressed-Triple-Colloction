@@ -10,7 +10,7 @@ $$\delta_(\varepsilon_2 )=\left| \sigma_2 - \hat{\sigma_2} \right| ={-{{a c+�
 $$\delta_(\varepsilon_3 )=\left| \sigma_3 - \hat{\sigma_3} \right| ={-{{b c+{β_3}^2 x y-2 a β_3 z+b β_3 y+β_3 c x+b β_2 z+β_1 c z-a {β_3}^2 vt+β_1 bt_2 z^2-β_2 β_3 x z-β_1 β_3 y z+b β_2 β_3 vt+β_1 β_3 c vt} \over {a+β_2 x+β_1 y+β_1 β_2 vt}}}$$
 
 where: $vt=<(t-\bar{t})^2>, x=<{t \varepsilon_1}>, y=<{t \varepsilon_2}>, z=<{t \varepsilon_3}>, a=<{\varepsilon_1 \varepsilon_2}>, b=<{\varepsilon_1 \varepsilon_3}>, c=<{\varepsilon_2 \varepsilon_3}>$, 
-When the numerator of these 3 relationship approaches 0, SLAR emerges.
+Any the numerator of these 3 relationship approaches 0, SLAR emerges.
 
 
 In response to these findings, we present two methodologies for suppressing SLAR and enhancing TC accuracy:
