@@ -13,9 +13,10 @@ where: $vt=<(t-\bar{t})^2>, x=<{t \varepsilon_1}>, y=<{t \varepsilon_2}>, z=<{t 
 Any the numerator of these 3 relationship approaches 0, SLAR emerges.
 
 
-In response to these findings, we present two methodologies for suppressing SLAR and enhancing TC accuracy:
-1. Additive-Bias-Aware Method: By skillfully addressing the influence of orthogonality and zero cross-correlation assumption violations on αᵢ and βᵢ, this approach effectively mitigates SLAR occurrences.
+ In the view of the differential notation of TC method, how to desgin a stable Rescaling-coefficients is the key to suppress SLAR. we present two methodologies:
+1. neglecting-Additive-Bias Method: By neglecting the Additive-Bias, make the resacling coefficients being a constant, this fractional structure which the relationship between 
+the error the result and the degree of Violations in assuptions (a,b,c,x,y,z) would be break.it should be noted that this method is equel to this type of tc which using the $x_i = \beta_i*t + \varepsilon_i$ assumptions of linearity.
 
-2. Constrained-Rescaling Method: By strategically limiting the ranges of αᵢ and βᵢ, this methodology successfully curtails SLAR incidents, ensuring consistent performance even in intricate scenarios.
+2. Constrained-Rescaling-coefficients Method: By strategically limiting the ranges of Rescaling-coefficients ${\beta_2}^{\*},{\beta_3}^{\*}$, this methodology successfully curtails SLAR incidents, ensuring consistent performance even in intricate scenarios.
 
 Explore this repository to access the code implementations of these pioneering methodologies, empowering researchers and practitioners to overcome the challenges posed by SLAR in TC analysis.
