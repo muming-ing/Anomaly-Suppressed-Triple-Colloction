@@ -13,9 +13,8 @@ where: $vt=<(t-\bar{t})^2>, x=<{t \varepsilon_1}>, y=<{t \varepsilon_2}>, z=<{t 
 Any the numerator of these 3 relationship approaches 0, SLAR emerges.
 
 
- In the view of the differential notation of TC method, how to desgin a stable Rescaling-coefficients is the key to suppress SLAR. we present two methodologies:
-1. neglecting-Additive-Bias Method: By neglecting the Additive-Bias, make the resacling coefficients being a constant, this fractional structure which the relationship between 
-the error the result and the degree of Violations in assuptions (a,b,c,x,y,z) would be break.it should be noted that this method is equel to this type of tc which using the $x_i = \beta_i*t + \varepsilon_i$ assumptions of linearity.
+In the view of the differential notation of TC method, how to desgin a stable Rescaling-coefficients is the key to suppress SLAR. we present two methodologies:
+1. neglecting-Additive-Bias Method: By neglecting the Additive-Bias, the resacling coefficients can be constants. This disrupts the fractional structural relationship, which presented earlier, between the error in the method's outcome and the extent of violations in assumptions (a, b, c, x, y, z).". it should be noted that this method is equel to this type of tc which using the $x_i = \beta_i*t + \varepsilon_i$ assumptions of linearity.
 
 2. Constrained-Rescaling-coefficients Method: By strategically limiting the ranges of Rescaling-coefficients ${\beta_2}^{\*},{\beta_3}^{\*}$, this methodology successfully curtails SLAR incidents, ensuring consistent performance even in intricate scenarios.
 
